@@ -17,8 +17,10 @@ pb_show_title:
 tags: [ ]
 categories: [ ]
 ---
-<img src="http://publish.shepherdhistory.org/publish/sd11262016/wp-content/uploads/sites/2/2016/11/blood_drop-300px-212x300.png" alt="blood_drop-300px" width="212" height="300" class="size-medium wp-image-26 alignleft" />
+<img src="http://publish.shepherdhistory.org/publish/sd11262016/wp-content/uploads/sites/2/2016/11/blood_drop-300px-212x300.png" alt="blood_drop-300px" width="41" height="50" class=" wp-image-26 alignleft" />
 
 A blood drive will be held inside the Shepherd High School on Tuesday, December 13th, hosted by the SHS Student Council. The blood drive will be held in the auxiliary gym between the hours of 8:30 am and 1:45 pm.
 
-An appointment is not necessary, although it may reduce your waiting time. If you would like to make an appointment, please contact Jill Chaney at jchaney@shepherdschools.net.
+An appointment is not necessary, although it may reduce your waiting time. If you would like to make an appointment, please contact Jill Chaney at <a href="mailto:jchaney@shepherdschools.net">jchaney@shepherdschools.net</a>.
+
+| <a href="https://shepherdonline.quip.com/Ct1DAWDTfeCV">Add to this Story</a> |
