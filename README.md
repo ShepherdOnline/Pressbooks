@@ -1,2 +1,2 @@
 # The Shepherd Journal
-## Volume 1 | Winter Issue
+## Volume 1 | Winter 2016
