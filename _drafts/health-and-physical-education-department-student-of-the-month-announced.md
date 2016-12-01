@@ -4,11 +4,15 @@ post_title: >
   Health and Physical Education Department
   Student of the Month Announced
 author: ng23055
-post_date: 2016-12-01 00:08:41
+post_date: 2016-12-01 02:02:38
 post_excerpt: ""
 layout: chapter
 permalink: 'http://publish.shepherdhistory.org/publish/sd11262016/?post_type=chapter&p=48'
 published: false
+pb_export:
+  - 'on'
+pb_show_title:
+  - 'on'
 tags: [ ]
 categories: [ ]
 ---
