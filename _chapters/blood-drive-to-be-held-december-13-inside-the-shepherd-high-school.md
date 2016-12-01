@@ -23,4 +23,4 @@ A blood drive will be held inside the Shepherd High School on Tuesday, December 
 
 An appointment is not necessary, although it may reduce your waiting time. If you would like to make an appointment, please contact Jill Chaney at <a href="mailto:jchaney@shepherdschools.net">jchaney@shepherdschools.net</a>.
 
-| <a href="https://docs.google.com/document/d/1qMggtaRF3MkfpNxSIB5O9SHMAfItlnFP9rHhpFgJHfw/edit?usp=sharing">Add to this Story</a> |
+| [wpghs target='edit' type='link' text='Add to this story'] |
