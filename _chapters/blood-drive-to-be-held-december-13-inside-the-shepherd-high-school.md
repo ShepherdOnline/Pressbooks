@@ -20,4 +20,7 @@ categories: [ ]
 
 An appointment is not necessary, although it may reduce your waiting time. If you would like to make an appointment, please contact Jill Chaney at <a href="mailto:jchaney@shepherdschools.net">jchaney@shepherdschools.net</a>.
 
+---
+
 | [wpghs target='edit' type='link' text='Add to this story'] |
+---
