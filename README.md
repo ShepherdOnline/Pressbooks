@@ -1,2 +1,2 @@
 # The Shepherd Journal
-## Volume 1 | Winter 2016
+## Week of November 27, 2016
