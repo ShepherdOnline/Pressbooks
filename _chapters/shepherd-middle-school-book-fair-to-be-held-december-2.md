@@ -4,11 +4,12 @@ post_title: >
   Shepherd Middle School book Fair to be
   held December 2
 author: ng23055
-post_date: 2016-12-01 03:54:59
+post_date: 2016-12-01 03:57:46
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/sd11262016/?post_type=chapter&p=60'
-published: false
+permalink: >
+  http://publish.shepherdhistory.org/publish/sd11262016/chapter/shepherd-middle-school-book-fair-to-be-held-december-2/
+published: true
 pb_section_author:
   - Shepherd Middle School
 pb_export:
