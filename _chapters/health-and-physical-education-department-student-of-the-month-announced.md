@@ -22,3 +22,5 @@ categories: [ ]
 <strong>From:</strong> <a href="http://www.shepherdhistory.org/business-directory/name/shepherd-high-school/">Shepherd High School</a>
 
 <span>Congratulations to Jesse Wiles. Jesse has been nominated as the health and physical education department's student the month for November. Jess is shown with Mrs. Prout, a member of our Health/PE department.</span>
+
+| [wpghs target='edit' type='link' text='Add to this story'] |
