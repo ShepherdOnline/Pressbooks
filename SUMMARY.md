@@ -1,7 +1,6 @@
 # Summary
-
-## November 28, 2016
 * [Introduction](README.md)
+### November 28, 2016
 * [Blood Drive to be held December 13](_chapters/blood-drive-to-be-held-december-13-inside-the-shepherd-high-school.md)
 * [Mid Michigan News RoundUp 11/28/2016](_chapters/mid-michigan-news-roundup-11282016.md)
 * [Santa to Lead Christmas Parade Through downtown Shepherd December 1](_chapters/santa-to-lead-christmas-parade-through-downtown-shepherd-december-1.md)
