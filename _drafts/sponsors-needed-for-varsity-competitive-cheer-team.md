@@ -4,11 +4,15 @@ post_title: >
   Sponsors Needed for Varsity Competitive
   Cheer Team
 author: ng23055
-post_date: 2016-12-01 00:06:17
+post_date: 2016-12-01 00:06:36
 post_excerpt: ""
 layout: chapter
 permalink: 'http://publish.shepherdhistory.org/publish/sd11262016/?post_type=chapter&p=46'
 published: false
+pb_export:
+  - 'on'
+pb_show_title:
+  - 'on'
 tags: [ ]
 categories: [ ]
 ---
