@@ -27,4 +27,4 @@ Thursday December first, Santa will be leading a Christmas parade down town Shep
 
 After Santa gets the low down of what you want for Christmas, stop at the neighboring elf house for a cookie and hot chocolate.
 
-| [wpghs target='edit' type='link' text='Here is my post on GitHub'] |
+| [wpghs target='edit' type='link' text='Add to this story'] |
