@@ -33,4 +33,4 @@ After Santa gets the low down of what you want for Christmas, stop at the neighb
 
 ![](../15220057_10211171359665512_820085426915016222_n.jpg)
 
-| <a href="https://docs.google.com/document/d/1udM4mtBrxJeihs4MbFZtHgaRGQIuquA941EbrlpJr50/edit?usp=sharing">Add to this Story</a> |
+| [wpghs target='view' type='link' text='Here is my post on GitHub'] |
